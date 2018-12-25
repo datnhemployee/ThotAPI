@@ -1,0 +1,2 @@
+# ThotAPI
+Server of thot
